@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Final Project Gem Quest</title>
+    </head>
+   <link rel="stylesheet" href="style4.css">
+    <body>
+         <center><img src="myBanner.jpg">
+        <br>
+       <a href="https://Diegotyb.github.io/home.html"><img src="home.png"></a> 
+        <a href="https://Diegotyb.github.io/javascript.html"><img src="Javascript.png"></a> 
+       <a href="https://diegotyb.github.io/about.html"><img src="about.png"></a> 
+       <a href= "https://diegotyb.github.io/FinalProject.html"><img src= "Final Project.drawio.png"></a>
+       
+       
+       
+        <h1> About Me </h1>
+        <p>My name is Diego. I swithced into a computer major this semester from being a business major. I enjoy playing soccer because 
+            I grew up playing it. Here is one picture of me winning a state championship and holding the trophy.</p>
+        </center> 
+    <img src="137C10F6-C2A0-420F-9F3B-33E9368D24E4.jpeg" alt=" Diego Kicking a ball. " width="250">
+        <img src="57293952-81EE-4C44-901B-BEAAC2707AE2.jpeg" alt= "Diego holding trophy with friends. " width="250">
+    </body>
+</html>
